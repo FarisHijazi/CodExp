@@ -74,6 +74,10 @@ $ codexp chat path/to/repo/ --actions jump_to_definition,google_search,readme_se
 - [ ] https://python.langchain.com/docs/use_cases/code/code-analysis-deeplake
 - [ ] https://medium.com/@neviogomez91/analyze-your-code-with-a-local-gpt-model-using-langchain-chroma-dd869d3fcdfa
 
+useful repos:
+- https://github.com/Ngz91/Eunomia (garbage code, only works on windows and even then it doesn't work, but useful as a baseline)
+- https://github.com/PromtEngineer/localGPT run QA with local LLMs, useful that it has a web UI as well
+
 ## TODO
 
 - [ ] CLI
